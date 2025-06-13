@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm Sanskriti  
+Aspiring to be a Software Engineer  
 
-<!--
-**sanskkriti/sanskkriti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently exploring: Gen AI, RAG, Agentic Workflows  
+🔗 Connect on https://www.linkedin.com/in/sanskriti-jha-a10839268/
 
-Here are some ideas to get you started:
+## 🛠️ Languages and Tools
+| Technology | Proficiency |
+|------------|-------------|
+| Python     | ⭐⭐⭐⭐☆       |
+| Java       | ⭐⭐⭐⭐☆       |
+| Streamlit  | ⭐⭐⭐⭐☆       |
+| Git & GitHub | ⭐⭐⭐⭐☆     |
+| SQL   | ⭐⭐⭐⭐☆       |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskkriti&layout=compact&theme=radical)
+
+## 🏆 Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=sanskkriti&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Profile Views](https://komarev.com/ghpvc/?username=sanskkriti&color=blue)
