@@ -7,11 +7,11 @@ Aspiring to be a Software Engineer
 ## 🛠️ Languages and Tools
 | Technology | Proficiency |
 |------------|-------------|
-| Python     | ⭐⭐⭐⭐☆       |
+| Python     | ⭐⭐⭐⭐⭐       |
 | Java       | ⭐⭐⭐⭐☆       |
 | Streamlit  | ⭐⭐⭐⭐☆       |
 | Git & GitHub | ⭐⭐⭐⭐☆     |
-| SQL   | ⭐⭐⭐⭐☆       |
+| SQL   | ⭐⭐⭐⭐⭐       |
 
 ## 📈 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanskkriti&layout=compact&theme=radical)
