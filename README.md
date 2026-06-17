@@ -2,12 +2,13 @@
 
 ### Cloud & AI Engineer | 🔴 Red Hatter | GenAI Enthusiast
 
-I like building systems that scale and exploring the intelligence that runs on top of them. Currently interning at Red Hat, where I work on enterprise-grade cloud infrastructure by day and experiment with LLMs, RAG, and agentic workflows on the side.
+I like building systems that scale and exploring the intelligence that runs on top of them. Currently interning at Red Hat, where I work on **open-source** enterprise cloud infrastructure by day and experiment with LLMs, RAG, and agentic workflows on the side.
 
 ---
 
 ### 🔭 What I'm into
 - ☁️ **Cloud-native platforms:** Kubernetes, OpenShift
+- 🌍 **Open Source Ecosystems:** Passionate about community-driven tech and open innovation
 - 🧠 **AI Architecture:** GenAI, RAG architectures & multi-agent systems
 - ⚙️ **Reliability:** Backend systems that don't fall over
 - 🚀 **Execution:** Turning AI experiments into usable, production-ready tools
@@ -27,6 +28,7 @@ I like building systems that scale and exploring the intelligence that runs on t
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskriti-jha-a10839268)
+📧 sanskritijha.cs@gmail.com
 
 ---
 
