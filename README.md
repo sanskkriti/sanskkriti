@@ -1,31 +1,32 @@
 # Hi, I'm Sanskriti 👋
 
-### 🔴 Red Hatter • Cloud-Native Builder • AI Explorer
+### Cloud & AI Engineer | 🔴 Red Hatter | GenAI Enthusiast
 
-I like building platforms that don't break and exploring the intelligence that runs on top of them. 
+I like building systems that scale and exploring the intelligence that runs on top of them. Currently interning at Red Hat, where I work on enterprise-grade cloud infrastructure by day and experiment with LLMs, RAG, and agentic workflows on the side.
 
-Some days that means debugging a bare-metal Kubernetes deployment or wrestling with complex network interfaces. Other days, it means diving into LLMs to figure out how Retrieval-Augmented Generation (RAG) can make systems smarter. Right now, I'm interning at Red Hat, getting hands-on with the enterprise-grade infrastructure that powers large organizations across Data Centers and Disaster Recovery environments.
+---
 
-**What keeps me curious**
-☁️ Cloud-Native Ecosystems (Kubernetes & OpenShift)
-🧠 GenAI, RAG & Agentic Workflows
-🔧 The messy reality of Enterprise Infrastructure (Bare-metal, Storage, Virtualization)
-🚀 Bridging the gap between robust backend systems and intelligent applications
+### 🔭 What I'm into
+- ☁️ **Cloud-native platforms:** Kubernetes, OpenShift
+- 🧠 **AI Architecture:** GenAI, RAG architectures & multi-agent systems
+- ⚙️ **Reliability:** Backend systems that don't fall over
+- 🚀 **Execution:** Turning AI experiments into usable, production-ready tools
 
-**What I've Been Working On**
+### 🛠️ What I've been building
+- **Cloud Infrastructure:** Deploying and managing OpenShift clusters, automating workflows with Python and Bash.
+- **GenAI Projects:** Building RAG-powered assistants and multilingual AI interfaces using Python and Streamlit.
+- **Open Source Curiosity:** Always exploring new AI agent frameworks and LLM tooling.
 
-* **Enterprise Cloud Deployments:** Architecting high-availability OpenShift clusters across environments, optimizing infrastructure, and setting up critical Day 2 observability operators.
-* **Modern Virtualization:** Moving workloads to the cloud native era with OpenShift Virtualization (MTV) and implementing automated high-availability fencing.
-* **GenAI Experiments:** Building accessible AI interfaces using Python, Streamlit, and modern LLM frameworks.
+### 💻 Tech Stack
+- **Languages:** Java, Python, Bash, SQL
+- **Frameworks & Tools:** Streamlit, REST APIs, Git, Docker
+- **Cloud & Platforms:** Kubernetes, Red Hat OpenShift, RHEL, AWS, Azure
+- **AI/ML:** LLM Orchestration, RAG, Multi-Agent Systems
 
-**Beyond the Terminal**
-When I'm not configuring clusters or writing code, you'll probably find me:
-* Falling down rabbit holes about new AI agent frameworks.
-* Figuring out why a system failed (and how to prevent it next time).
-* Learning about technologies completely outside my comfort zone.
+---
 
-**Connect**
-📫 [linkedin.com/in/sanskriti-jha-a10839268/](https://www.linkedin.com/in/sanskriti-jha-a10839268/)
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskriti-jha-a10839268)
 
 ---
 
@@ -39,4 +40,10 @@ When I'm not configuring clusters or writing code, you'll probably find me:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sanskkriti&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br>
+
+<div align="center">
+  <i><b>"Where cloud meets curiosity."</b></i>
 </div>
