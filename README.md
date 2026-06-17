@@ -28,6 +28,7 @@ I like building systems that scale and exploring the intelligence that runs on t
 
 ### 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskriti-jha-a10839268)
+
 📧 sanskritijha.cs@gmail.com
 
 ---
